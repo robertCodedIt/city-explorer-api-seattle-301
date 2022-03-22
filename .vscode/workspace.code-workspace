@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "city-explorer-api-seattle-301",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.editor.autoLockGroups": {
+			"default": true,
+			"workbench.input.interactive": true,
+			"interactive": true
+		},
+		"workbench.editor.closeOnFileDelete": true,
+		"workbench.colorTheme": "United Ubuntu"
+	}
+}

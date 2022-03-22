@@ -1,0 +1,25 @@
+{
+  "name": "city-explorer-api-seattle-301",
+  "version": "1.0.0",
+  "description": "city explorer api demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertCodedIt/city-explorer-api-seattle-301.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertCodedIt/city-explorer-api-seattle-301/issues"
+  },
+  "homepage": "https://github.com/robertCodedIt/city-explorer-api-seattle-301#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
