@@ -11,9 +11,9 @@ const getHomePage = () => {
     res.send(user);
   });
 };
-getHomePage()
+
 
 app.listen(PORT, () => {
   console.log(`I am listening on port ${PORT}`);
- 
+  getHomePage()
 });
