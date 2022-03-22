@@ -7,7 +7,7 @@ app.use(cors());
 const PORT = 3001;
 const user = { Name: "Robert", Year: new Date().getUTCFullYear() };
 const getHomePage = () => {
-  app.get("/user", (req, res) => {
+  app.get("/", (req, res) => {
     res.send(user);
   });
 };
